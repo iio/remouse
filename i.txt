@@ -1,0 +1,42 @@
+怎么 把 速度 都 录制进去
+全真 录制
+完美 重现
+
+python win32api
+http://stackoverflow.com/questions/3580855/where-to-find-the-win32api-module-for-python
+https://www.python.org/download/windows/
+http://stackoverflow.com/questions/3698635/getting-cursor-position-in-python
+python mouse position
+http://stackoverflow.com/questions/1181464/controlling-mouse-with-python
+
+
+
+http://oldj.net/article/python-pickle/
+https://docs.python.org/2.7/tutorial/interpreter.html?highlight=file%20encoding
+
+
+
+https://pypi.python.org/pypi/pika
+
+python pickle 用法
+
+
+
+http://www.cnblogs.com/ojumpin/archive/2011/07/03/2096981.html
+
+
+set tabstop=4
+set expandtab
+
+
+
+windows vim 配置 4个 空格 
+enter 正确 缩进
+
+
+https://pypi.python.org/pypi/
+
+https://pypi.python.org/pypi/pip
+
+https://pip.pypa.io/en/latest/installing.html
+https://pip.pypa.io/en/latest/
