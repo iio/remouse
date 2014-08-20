@@ -30,13 +30,14 @@ def logic():
     print('start')
     #回放是 逆过程
     for i in l1:
-        time.sleep(0.01)
-        if 1==i:
+        if 'd'==i:
             win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,0,0,0,0)
-        elif 0==i:
+        elif 'u'==i:
             win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP,0,0,0,0)
-        else:    
+        elif 'tuple'==type(i).__name__:    
             win32api.SetCursorPos(i)
+        else:
+            time.sleep(i)
     print('finished')
 
 
